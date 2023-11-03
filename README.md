@@ -12,19 +12,19 @@ Hi, I'm Daniel, a passionate front-end developer and graphic designer. I believe
 
 Here are some of the technologies and tools I'm proficient in:
 
-![HTML](URL-ul-copiat): HTML
-:heavy_check_mark: CSS
-- :heavy_check_mark: jQuery
-- :heavy_check_mark: JavaScript
-- :heavy_check_mark: NPM
-- :heavy_check_mark: Webpack
-- :heavy_check_mark: Gulp
-- :heavy_check_mark: SASS
-- :heavy_check_mark: Bootstrap
-- :heavy_check_mark: Git
-- :heavy_check_mark: GitHub
-- :heavy_check_mark: Photoshop
-- :heavy_check_mark: Figma
+ :heavy_check_mark: HTMl
+ :heavy_check_mark: CSS
+ :heavy_check_mark: SCSS
+ :heavy_check_mark: JavaScript
+ :heavy_check_mark: NPM
+ :heavy_check_mark: Webpack
+ :heavy_check_mark: Gulp
+ :heavy_check_mark: SASS
+ :heavy_check_mark: React
+ :heavy_check_mark: Git
+ :heavy_check_mark: GitHub
+ :heavy_check_mark: Photoshop
+ :heavy_check_mark: Figma
 
 ## Portfolio
 

@@ -12,8 +12,8 @@ Hi, I'm Daniel, a passionate front-end developer and graphic designer. I believe
 
 Here are some of the technologies and tools I'm proficient in:
 
-- :heavy_check_mark: HTML
-- :heavy_check_mark: CSS
+![HTML](URL-ul-copiat): HTML
+:heavy_check_mark: CSS
 - :heavy_check_mark: jQuery
 - :heavy_check_mark: JavaScript
 - :heavy_check_mark: NPM
@@ -32,7 +32,7 @@ You can check out some of my recent projects and designs on my [website](https:/
 
 ## Contact Me
 
-If you're interested in collaborating or have any questions, feel free to [email me](mailto:daniell.diacon@email.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/daniel-diacon-72b421264/)).
+If you're interested in collaborating or have any questions, feel free to [email me](mailto:daniell.diacon@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/daniel-diacon-72b421264/).
 
 > "My code and web design are a testament to digital art." - Diacon Daniel
 

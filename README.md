@@ -6,8 +6,8 @@ Hi, I'm Daniel, a passionate front-end developer and graphic designer. I believe
 
 - :computer: Front-End Developer
 - :art: Graphic Designer
-- :world_map: Based in [Your Location]
-
+- :world_map: Based in Moldova
+  
 ## My Skills
 
 Here are some of the technologies and tools I'm proficient in:
